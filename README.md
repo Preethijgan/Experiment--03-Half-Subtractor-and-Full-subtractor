@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -35,20 +35,43 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Preethi Jagan
+RegisterNumber:  23008364
 */
 
-## Output:
+## Program
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/2c166101-fb0d-4dc4-aa45-2b8ea89c263b)
 
 ## Truthtable
 
+## Half Subtractor
 
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/87da08f1-0d8e-4eca-b865-62508bf9b036)
+
+## Full Subtractor
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/5c60ec4a-4d54-4fa6-8961-fa8f3b1124bc)
 
 ##  RTL realization
 
+## Half Subtractor
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/9fa8fbae-a871-435f-8af0-24d6b7215a10)
+
+## Full Subtractor
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/1c954e1c-95b7-4f61-902f-c7f846d338e4)
 
 ## Timing diagram 
+
+## Half Subtractor
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/8874f50e-e6bb-4472-bc4e-402b1c312b25)
+
+## Full Subtractor
+
+![image](https://github.com/Preethijgan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870652/c8a6f6c2-3841-4bd0-b739-c83d384652b1)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
